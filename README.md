@@ -1,5 +1,7 @@
 # docker-elasticsearch-kubernetes
 
+You can find here a docker container we're using at [MySocialApp](https://mysocialapp.io) (iOS and Android social app builder - SaaS)
+
 Ready to use, lean Elasticsearch Docker image ready for using within a Kubernetes cluster.
 
 [![Docker Repository on Quay.io](https://quay.io/repository/pires/docker-elasticsearch-kubernetes/status "Docker Repository on Quay.io")](https://quay.io/repository/pires/docker-elasticsearch-kubernetes)
